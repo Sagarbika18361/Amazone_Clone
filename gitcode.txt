@@ -1,0 +1,8 @@
+1.git init
+2.git status
+3.git add -A
+4.git status
+5.git commit -m "first commit"
+6.git branch -M main
+7.git remote add origin https://github.com/Sagarbika18361/AmazonClone.git
+8.git push -u origin main

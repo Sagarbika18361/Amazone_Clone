@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/AmazonClone/static/css/main.4bac84b7.chunk.css",
+    "main.js": "/AmazonClone/static/js/main.d5a3ff08.chunk.js",
+    "main.js.map": "/AmazonClone/static/js/main.d5a3ff08.chunk.js.map",
+    "runtime-main.js": "/AmazonClone/static/js/runtime-main.0185b1e5.js",
+    "runtime-main.js.map": "/AmazonClone/static/js/runtime-main.0185b1e5.js.map",
+    "static/js/2.d2646170.chunk.js": "/AmazonClone/static/js/2.d2646170.chunk.js",
+    "static/js/2.d2646170.chunk.js.map": "/AmazonClone/static/js/2.d2646170.chunk.js.map",
+    "static/js/3.772fe67b.chunk.js": "/AmazonClone/static/js/3.772fe67b.chunk.js",
+    "static/js/3.772fe67b.chunk.js.map": "/AmazonClone/static/js/3.772fe67b.chunk.js.map",
+    "index.html": "/AmazonClone/index.html",
+    "static/css/main.4bac84b7.chunk.css.map": "/AmazonClone/static/css/main.4bac84b7.chunk.css.map",
+    "static/js/2.d2646170.chunk.js.LICENSE.txt": "/AmazonClone/static/js/2.d2646170.chunk.js.LICENSE.txt",
+    "static/media/1.e8adae74.jpg": "/AmazonClone/static/media/1.e8adae74.jpg",
+    "static/media/10.7472a8ff.jpg": "/AmazonClone/static/media/10.7472a8ff.jpg",
+    "static/media/3.98bf3c0a.jpg": "/AmazonClone/static/media/3.98bf3c0a.jpg",
+    "static/media/4.2aa5b48d.jpg": "/AmazonClone/static/media/4.2aa5b48d.jpg",
+    "static/media/5.2cf93c9e.jpg": "/AmazonClone/static/media/5.2cf93c9e.jpg",
+    "static/media/6.c4ac5887.jpg": "/AmazonClone/static/media/6.c4ac5887.jpg",
+    "static/media/9.abbd83d5.jpg": "/AmazonClone/static/media/9.abbd83d5.jpg",
+    "static/media/asus.a757a221.mkv": "/AmazonClone/static/media/asus.a757a221.mkv",
+    "static/media/header_banner.d8b8ac4c.jpg": "/AmazonClone/static/media/header_banner.d8b8ac4c.jpg",
+    "static/media/imgbanner.c907a312.png": "/AmazonClone/static/media/imgbanner.c907a312.png",
+    "static/media/info.c2d37881.svg": "/AmazonClone/static/media/info.c2d37881.svg",
+    "static/media/thgrid.37d57b68.svg": "/AmazonClone/static/media/thgrid.37d57b68.svg",
+    "static/media/tr.c375a8fb.png": "/AmazonClone/static/media/tr.c375a8fb.png",
+    "static/media/wristwatch.5005468a.jpg": "/AmazonClone/static/media/wristwatch.5005468a.jpg",
+    "static/media/wristwatch2.7149886c.jpg": "/AmazonClone/static/media/wristwatch2.7149886c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0185b1e5.js",
+    "static/js/2.d2646170.chunk.js",
+    "static/css/main.4bac84b7.chunk.css",
+    "static/js/main.d5a3ff08.chunk.js"
+  ]
+}
